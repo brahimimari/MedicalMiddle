@@ -1,0 +1,12 @@
+aws 
+
+souad.berrada2020@gmail.com
+W01@
+
+
+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
+
+
+git remote set-url origin https://<githubtoken>@github.com/<username>/MedicalMiddle.git
+
+git remote add origin https://github.com/brahimimari/MedicalMiddle.git
