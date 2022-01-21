@@ -12,7 +12,8 @@ class ProductsController
         $person = array( 
             "name" => "Johny Carson", 
             "title" => "CTO",
-            "age" => "18"
+            "age" => "18",
+            "price" => "1800"
         );
         $personJSON=json_encode($person);
         $response = new Response($personJSON);
